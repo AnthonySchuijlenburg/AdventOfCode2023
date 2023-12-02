@@ -15,3 +15,4 @@ node dist/{{DAY_NUMBER}}/{{FILENAME}}.js
 |         | Part one | Part two |
 |---------|----------|----------|
 | Day one | 00:17:58 | 02:14:33 |
+| Day two | 04:57:48 | 05:47:05 |
