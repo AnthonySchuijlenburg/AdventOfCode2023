@@ -22,3 +22,4 @@ node dist/{{DAY_NUMBER}}/{{FILENAME}}.js
 | Day six   | > 24h    | > 24h    |
 | Day seven | 16:40:14 | > 24h    |
 | Day eight | 03:14:50 | 04:54:33 |
+| Day nine  | 09:24:04 | 09:49:09 |
